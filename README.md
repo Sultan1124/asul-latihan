@@ -1,0 +1,2 @@
+# asul-latihan
+latihan aja
